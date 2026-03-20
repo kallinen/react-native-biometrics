@@ -8,7 +8,7 @@ This library requries that your app is using the **New React Native Architecture
 ## Installation
 
 ```sh
-npm install @kjoonas1/react-native-biometrics
+npm install @kallinen/react-native-biometrics
 ```
 
 ## Usage
