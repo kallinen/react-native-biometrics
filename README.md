@@ -1,5 +1,5 @@
-# @kjoonas1/react-native-biometrics
-![Build Status](https://github.com/kjoonas1/react-native-biometrics/actions/workflows/ci.yml/badge.svg)
+# @kallinen/react-native-biometrics
+![Build Status](https://github.com/kallinen/react-native-biometrics/actions/workflows/ci.yml/badge.svg)
 
 A simple, lightweight biometrics API for React Native apps **with zero runtime dependencies**. Uses native BiometricPrompt (Android) and LocalAuthentication (iOS) directly.
 
